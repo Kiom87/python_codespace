@@ -1,0 +1,1 @@
+A set is an unordered, mutable, unique collection
